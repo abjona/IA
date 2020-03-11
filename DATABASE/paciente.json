@@ -1,0 +1,10 @@
+[
+{"Id": 4201, "Nome": "Joao", "Idade": 28, "Sexo": "M", "Peso": 79, "Manchas": "Concentradas", "Temp": 38, "Estado": "SP", "Diagnostico": "Doente"}, 
+{"Id": 3217, "Nome": "Maria", "Idade": 18, "Sexo": "F", "Peso": 67, "Manchas": "Inexistentes", "Temp": 39.5, "Estado": "MG", "Diagnostico": "Doente"}, 
+{"Id": 4039, "Nome": "Luiz", "Idade": 49, "Sexo": "M", "Peso": 92, "Manchas": "Espalhadas", "Temp": 38, "Estado": "RS", "Diagnostico": "Saudavel"}, 
+{"Id": 1920, "Nome": "Jose", "Idade": 18, "Sexo": "M", "Peso": 43, "Manchas": "Inexistentes", "Temp": 38.5, "Estado": "MG", "Diagnostico": "Doente"}, 
+{"Id": 4340, "Nome": "Claudia", "Idade": 21, "Sexo": "F", "Peso": 52, "Manchas": "Uniformes", "Temp": 37.6, "Estado": "PE", "Diagnostico": "Saudavel"}, 
+{"Id": 2301, "Nome": "Ana", "Idade": 22, "Sexo": "F", "Peso": 72, "Manchas": "Inexistentes", "Temp": 38, "Estado": "RJ", "Diagnostico": "Doente"}, 
+{"Id": 1322, "Nome": "Marta", "Idade": 19, "Sexo": "F", "Peso": 87, "Manchas": "Espalhadas", "Temp": 39, "Estado": "AM", "Diagnostico": "Doente"}, 
+{"Id": 3027, "Nome": "Paulo", "Idade": 34, "Sexo": "M", "Peso": 67, "Manchas": "Uniformes", "Temp": 38.4, "Estado": "GO", "Diagnostico": "Saudavel"} 
+]

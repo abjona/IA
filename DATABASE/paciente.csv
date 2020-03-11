@@ -1,0 +1,9 @@
+Id.;Nome;Idade;Sexo;Peso;Manchas;Temp.;#int;Est.;Diagnostico
+4201;Joao;28;M;79;Concentradas;38.00;2;SP;Doente
+3217;Maria;18;F;67;Inexistentes;39.50;4;MG;Doente
+4039;Luiz;49;M;92;Espalhadas;38.00;2;RS;Saudavel
+1920;Jose;18;M;43;Inexistentes;38.50;8;MG;Doente
+4340;Claudia;21;F;52;Uniformes;37.60;1;PE;Saudavel
+2301;Ana;22;F;72;Inexistentes;38.00;3;RJ;Doente
+1322;Marta;19;F;87;Espalhadas;39.00;6;AM;Doente
+3027;Paulo;34;M;67;Uniformes;38.40;2;GO;Saudavel
